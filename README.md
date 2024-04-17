@@ -12,7 +12,7 @@ search engine
 ## Screenshots
 Web interface
 
-![screenshot](https://github.com/Charalampidis87/Music_Search_Engine/blob/main/Assets/infrastructure.png)
+![screenshot](https://github.com/Charalampidis87/Music_Search_Engine/blob/main/Assets/search_results.png)
 
 Suggestion function (Did you mean?)
 
